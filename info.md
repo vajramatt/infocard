@@ -1,101 +1,103 @@
-Matthew Williamson
+---
+name: Matthew Williamson
+title: Chief Executive Officer & Founder
+location: Oklahoma City, OK
+tags: [ai, strategy, leadership, java, solaris, apache, web-development, seo, e-commerce, project-management, devops, internet-infrastructure, marine-corps-veteran, sales, content-management, fintech, startup]
+open_to: [consulting, advisory, contract, speaking]
+---
 
-Founder & CEO | AI Systems Architect | Technology Leader
-Oklahoma City, OK
+# Matthew Williamson
+**Chief Executive Officer & Founder** · Oklahoma City, OK
 [mattw.usmc@gmail.com](mailto:mattw.usmc@gmail.com)
-⸻
+---
 
-Summary
+## Experience
 
-Founder and CEO of Clevyr, Inc., with over 30 years of experience building, leading, and scaling technology teams and software platforms. I specialize in AI-driven systems, system integration, and the design of organizational knowledge architectures that connect people, processes, and technology. My career spans the early days of the public internet through modern AI-powered platforms, with a consistent focus on building durable systems that solve real problems and endure over time.
+### Chief Executive Officer
+**Clevyr, Inc.** · Full-time
+*Mar 2009 – Present · 17 yrs*
+Oklahoma City, Oklahoma Area · On-site
 
-I am equal parts executive, systems thinker, and builder—comfortable in boardrooms, code reviews, and long-range strategy sessions. Known for translating complexity into clarity, and vision into execution.
+I enjoy playing a pivotal role in assisting clients with the development, design, and maintenance of state-of-the-art technologies. With extensive experience overseeing large-scale and complex projects, including logistics centers, laboratory management systems, and critical business infrastructure systems for Fortune 100 companies, I have led teams responsible for developing numerous cutting-edge technologies.
 
-⸻
+We are here to help each other, and that is what drives me.
 
-Professional Experience
+---
 
-Clevyr, Inc. — Founder & CEO
+### Technology Strategist
+**iThryv** · Full-time
+*Sep 2008 – Apr 2009 · 8 mos*
+Oklahoma City Metropolitan Area · Hybrid
 
-2009 – Present | Oklahoma City, OK
-	•	Founded and scaled a custom software and AI solutions company serving SMB, enterprise, healthcare, education, government, and regulated industries.
-	•	Lead company strategy, sales, delivery, and product vision, with hands-on involvement in system architecture and AI strategy.
-	•	Built and managed multidisciplinary teams including engineering, product management, design, and operations.
-	•	Delivered complex software platforms involving system integration, data pipelines, AI/ML, automation, and workflow orchestration.
-	•	Championed ethical, human-centered AI design and long-term system thinking.
-	•	Actively evolving the company toward AI-powered platforms, personalization engines, and organizational intelligence systems.
+After introducing two of my favorite technologists, they combined forces to create this early financial services corporation to create online banking replacements for most major cores. I managed internal web development along with the marketing website, day-to-day project management of the software development team, and more.
 
-⸻
+---
 
-Advanced Financial Solutions (AFS) — Director / Technical Leader
+### Marketing Internet Strategist
+**Century Martial Arts**
+*May 2007 – Oct 2008 · 1 yr 6 mos*
 
-Early–Mid 2000s
-	•	Built and led teams delivering internal and external web applications for financial services.
-	•	Designed and implemented large-scale Java and web-based systems supporting business-critical operations.
-	•	Bridged business needs and technical execution, establishing patterns still in use after tenure.
+Ran the e-commerce platform for the world's largest martial arts gear manufacturer. Handled all SEO, CPC, sales, placement and more.
 
-⸻
+---
 
-Enrollcom (American Fidelity) — Senior Developer / Architect
-	•	Contributed to major Java-based life insurance applications.
-	•	Worked on high-reliability systems in a regulated environment.
+### Corporate Internet Strategist
+**Metavante**
+*Mar 2002 – May 2007 · 5 yrs 3 mos*
 
-⸻
+Joined Advanced Financial Solutions and ran a group of motivated developers, oversaw all SEO marketing, acted as a project manager on IT initiatives. We were acquired by Metavante.
 
-Century Martial Arts — Web Development Lead
-	•	Led web development initiatives supporting e-commerce and internal systems.
+---
 
-⸻
+### Java Developer
+**American Fidelity / Enrollcom** · Full-time
+*Aug 1999 – Mar 2002 · 2 yrs 8 mos*
+Oklahoma City Metropolitan Area · On-site
 
-Early Internet & Infrastructure Roles
-	•	ioNET (Internet Oklahoma) — Helped build one of the first national ISPs.
-	•	AmeriVision Lifeline — Built and supported ISP infrastructure.
-	•	OPUBCO (The Daily Oklahoman) — Developed the company’s first web application.
+Hired to create the initial software offering and infrastructure built on top of a Solaris/Java stack using the BEA WebLogic suite of servers. I focused on UI/UX java development once the initial DevOps was built out.
 
-Technologies included Solaris UNIX, Cisco networking, USRobotics modems, and early web stacks.
+---
 
-⸻
+### Director of Content
+**LifeLine** · Full-time
+*Apr 1998 – Aug 1999 · 1 yr 5 mos*
+Oklahoma City Metropolitan Area · On-site
 
-Military Experience
+Built the webservers for this startup using Solaris and Apache. I also managed and curated the content for this Christian internet provider focusing on family-friendly content.
 
-United States Marine Corps
-	•	Served as an artillery cannoneer (M198 Howitzer).
-	•	Developed leadership under pressure, discipline, teamwork, and operational clarity.
-	•	Experience continues to inform executive decision-making, accountability, and crisis leadership.
+---
 
-⸻
+### Electronic Media Editor/Web Developer
+**NewsOK.Com** · Full-time
+*Jan 1996 – Apr 1998 · 2 yrs 4 mos*
+Oklahoma City Metropolitan Area · Hybrid
 
-Areas of Expertise
-	•	Executive Leadership & Company Building
-	•	AI Strategy & Applied Artificial Intelligence
-	•	System Integration & Architecture
-	•	Organizational Knowledge Systems
-	•	Product Strategy & Delivery
-	•	Software Engineering (Full-Stack)
-	•	Cloud Platforms & Infrastructure
-	•	Ethical & Human-Centered Technology Design
-	•	Sales Engineering & Technical Discovery
+Hired as the first employee of ConnectOK and NewsOK.com to facilitate the creation of the state's largest newspaper's online presence. I worked with a small team to move the daily newspaper onto the web utilizing the Netscape Suite of E-Commerce products and extensive custom development on the Harris Publishing System.
 
-⸻
+---
 
-Notable Themes & Contributions
-	•	Early internet pioneer with experience spanning pre-broadband infrastructure to modern AI platforms.
-	•	Creator of long-running internal frameworks for knowledge continuity, system thinking, and organizational memory.
-	•	Frequent advisor and collaborator with executives, technical leaders, and teams navigating complex change.
-	•	Writer and speaker on technology, AI, systems thinking, and the human implications of emerging tools.
+### Field Artillery Cannoneer
+**United States Marine Corps** · Part-time
+*Jan 1992 – Jul 1996 · 4 yrs 7 mos*
 
-⸻
+- Operated the M198 artillery system as a Field Artillery Cannoneer in the US Marine Corps Reserves.
+- Managed the deployment of the SAW and PRC-77 communication equipment during exercises.
+- Collaborated with team members to ensure effective artillery support and communication in various scenarios.
 
-Education
-	•	Technical education through professional practice, military training, and decades of applied systems work.
+---
 
-⸻
+### Assistant Sales Manager
+**ioNET DBA Internet Oklahoma**
+*Jul 1995 – Jan 1996 · 7 mos*
+Oklahoma City Metropolitan Area
 
-Additional
-	•	Founder mindset with deep technical fluency.
-	•	Comfortable operating at both visionary and execution levels.
-	•	Known for mentoring leaders and builders.
+I was promoted from the technical side into sales to help spur significant contract development and client success. I joined this ISP startup and gave it my life for a year, one of the best years of my professional career. It was a Master's Class in network topology, UNIX, and the web.
 
-⸻
+---
 
-This résumé is intentionally concise and systems-focused. A more traditional, recruiter-optimized version or role-specific variant can be generated as needed.
+### Internet Technician/Solaris Developer
+**ioNet (Internet Oklahoma)** · Full-time
+*Jan 1995 – Jul 1995 · 7 mos*
+Oklahoma City Metropolitan Area · On-site
+
+As the first employee of ioNet, I helped to build the groundwork for what would become a regional player in the early internet. From punching down phone lines and provisioning thousands of modems to running Apache, SendMail, WuFTP, Gopher, WAIS, and more, this was a Master's Class in the internet before most knew what it was.
