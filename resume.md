@@ -2,7 +2,7 @@ Matthew Williamson
 
 Founder & CEO | AI Systems Architect | Technology Leader
 Oklahoma City, OK
-mattw.usmc@gmail.com
+[mattw.usmc@gmail.com](mailto:mattw.usmc@gmail.com)
 ⸻
 
 Summary
