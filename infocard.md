@@ -10,6 +10,7 @@ open_to: [consulting, advisory, contract, speaking]
 # Matthew Williamson
 **Chief Executive Officer & Founder** · Oklahoma City, OK
 [mattw.usmc@gmail.com](mailto:mattw.usmc@gmail.com)
+[Peronal website](https://vajramatt.github.io/)
 ---
 
 ## Experience
