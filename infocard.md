@@ -15,7 +15,7 @@ open_to: [consulting, advisory, contract, speaking]
 ## Experience
 
 ### Chief Executive Officer
-**Clevyr, Inc.** · Full-time
+**[Clevyr, Inc.](https://clevyr.com)** · Full-time
 *Mar 2009 – Present · 17 yrs*
 Oklahoma City, Oklahoma Area · On-site
 
@@ -78,7 +78,7 @@ Hired as the first employee of ConnectOK and NewsOK.com to facilitate the creati
 ---
 
 ### Field Artillery Cannoneer
-**United States Marine Corps** · Part-time
+**[United States Marine Corps](https://marines.com)** · Part-time
 *Jan 1992 – Jul 1996 · 4 yrs 7 mos*
 
 - Operated the M198 artillery system as a Field Artillery Cannoneer in the US Marine Corps Reserves.
