@@ -2,6 +2,7 @@
 name: Matthew Williamson
 title: Chief Executive Officer & Founder
 location: Oklahoma City, OK
+summary: Enterprise software leader transitioning from founder-operator to strategic architect across AI, CRM, and regulated-industry platforms. Track record of building delivery teams, HubSpot Diamond-tier partnerships, and AI capability frameworks for clients who can't afford to experiment recklessly.
 tags: [ai, strategy, leadership, java, solaris, apache, web-development, seo, e-commerce, project-management, devops, internet-infrastructure, marine-corps-veteran, sales, content-management, fintech, startup]
 open_to: [consulting, advisory, contract, speaking]
 ---
