@@ -15,7 +15,6 @@ open_to: [consulting, advisory, contract, speaking]
 ## Experience
 
 ### Chief Executive Officer
-<a href="https://clevyr.com" target="_blank" rel="noopener noreferrer">Clevyr, Inc.</a>
 **[Clevyr, Inc.](https://clevyr.com)** · Full-time 
 
 *Mar 2009 – Present · 17 yrs*
