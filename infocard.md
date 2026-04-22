@@ -2,20 +2,67 @@
 name: Matthew Williamson
 title: Chief Executive Officer & Founder
 location: Oklahoma City, OK
-summary: Enterprise software leader transitioning from founder-operator to strategic architect across AI, CRM, and regulated-industry platforms. Track record of building delivery teams, HubSpot Diamond-tier partnerships, and AI capability frameworks for clients who can't afford to experiment recklessly.
-tags: [ai, strategy, leadership, solaris, web-development, seo, e-commerce, project-management, devops, internet-infrastructure, marine-corps-veteran, sales, content-management, fintech, startup]
+summary: Founder and enterprise software leader with 25+ years shipping production systems. Built Clevyr into an HubSpot Diamond-tier agency and delivery partner for Fortune 100 clients. Currently building AI-native platforms — infocard.ai, chainproof.ai — on Cloudflare's edge stack. Available for AI advisory, strategic consulting, and speaking.
+tags: [cloudflare-workers, typescript, ai, leadership, hono, d1, workers-ai, durable-objects, strategy, fintech, startup, devops, project-management, seo, e-commerce, solaris, web-development, internet-infrastructure, marine-corps-veteran, sales, content-management]
 open_to: [ai consulting, ai advisory, contract, speaking]
 ---
 
 # Matthew Williamson
 **Chief Executive Officer & Founder** · Oklahoma City, OK
-[Peronal website](https://vajramatt.github.io/)
+[Personal website](https://vajramatt.github.io/)
+
+---
+
+## Skills
+
+| Area | Stack |
+|------|-------|
+| Edge & Cloud | Cloudflare Workers · D1 · Workers AI · KV · Durable Objects |
+| Languages | TypeScript · JavaScript · Java |
+| Frameworks | Hono · Vue 3 · React · Astro |
+| APIs & Integrations | Anthropic Claude · OpenAI · HubSpot · Harvest v2 |
+| Delivery & Strategy | AI Advisory · Enterprise Delivery · HubSpot Diamond Partner |
+
+---
+
+## Projects
+
+### [infocard.ai](https://infocard.ai)
+*Developer profile platform · 2026*
+
+Markdown resumes from GitHub repos — no accounts, no keyword stuffing. Recruiter search with AI tag extraction, skill matrix, and company profiles. Built on Cloudflare Workers, D1, Workers AI, and Hono.
+
+`typescript` `hono` `cloudflare-workers` `d1` `workers-ai`
+
+---
+
+### [chainproof.ai](https://chainproof.ai)
+*Agent provenance platform · 2026*
+
+Signed, hash-chained ledger for agentic workflows. Every AI action is cryptographically logged with a verifiable audit trail — provenance you can prove.
+
+`typescript` `hono` `cloudflare-workers` `d1` `durable-objects`
+
+---
+
+### [promptcard.ai](https://promptcard.ai)
+*<!-- your one-liner here --> · 2026*
+
+<!-- 2-3 sentence description -->
+
+---
+
+### [briefing.wtf](https://briefing.wtf)
+*<!-- your one-liner here --> · 2026*
+
+<!-- 2-3 sentence description -->
+
 ---
 
 ## Experience
 
 ### Chief Executive Officer
-**[Clevyr, Inc.](https://clevyr.com)** · Full-time 
+**[Clevyr, Inc.](https://clevyr.com)** · Full-time
 
 *Mar 2009 – Present · 17 yrs*
 Oklahoma City, Oklahoma Area · On-site
@@ -24,7 +71,8 @@ I enjoy playing a pivotal role in assisting clients with the development, design
 
 We are here to help each other, and that is what drives me.
 
----
+<details>
+<summary>Earlier experience (1995–2009)</summary>
 
 ### Technology Strategist
 **iThryv** · Full-time
@@ -103,3 +151,5 @@ I was promoted from the technical side into sales to help spur significant contr
 Oklahoma City Metropolitan Area · On-site
 
 As the first employee of ioNet, I helped to build the groundwork for what would become a regional player in the early internet. From punching down phone lines and provisioning thousands of modems to running Apache, SendMail, WuFTP, Gopher, WAIS, and more, this was a Master's Class in the internet before most knew what it was.
+
+</details>
