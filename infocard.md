@@ -46,16 +46,20 @@ Signed, hash-chained ledger for agentic workflows. Every AI action is cryptograp
 ---
 
 ### [promptcard.ai](https://promptcard.ai)
-*<!-- your one-liner here --> · 2026*
+*Personal and team prompt library · 2026*
 
-<!-- 2-3 sentence description -->
+Store, organize, search, and share AI prompts with zero friction. Folders, tags, full-text search, keyboard shortcuts, and team folder sharing — a tool that trusts you.
+
+`typescript` `cloudflare-workers`
 
 ---
 
 ### [briefing.wtf](https://briefing.wtf)
-*<!-- your one-liner here --> · 2026*
+*Global news start page · 2026*
 
-<!-- 2-3 sentence description -->
+43 feeds, 8 categories, and a live market ticker — everything you need to start the day without algorithmic noise.
+
+`typescript` `cloudflare-workers`
 
 ---
 
