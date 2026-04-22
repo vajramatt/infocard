@@ -2,7 +2,7 @@
 name: Matthew Williamson
 title: Chief Executive Officer & Founder
 location: Oklahoma City, OK
-summary: Founder and enterprise software leader with 25+ years shipping production systems. Built Clevyr into an HubSpot Diamond-tier agency and delivery partner for Fortune 100 clients. Currently building AI-native platforms — infocard.ai, chainproof.ai — on Cloudflare's edge stack. Available for AI advisory, strategic consulting, and speaking.
+summary: Founder and enterprise software leader with 25+ years shipping production systems. Built Clevyr into a Software Development company and a HubSpot Diamond-tier agency and delivery partner for Fortune 100 clients. Currently building AI-native platforms — infocard.ai, chainproof.ai — on Cloudflare's edge stack. Available for AI advisory, strategic consulting, and speaking.
 tags: [cloudflare-workers, typescript, ai, leadership, hono, d1, workers-ai, durable-objects, strategy, fintech, startup, devops, project-management, seo, e-commerce, solaris, web-development, internet-infrastructure, marine-corps-veteran, sales, content-management]
 open_to: [ai consulting, ai advisory, contract, speaking]
 ---
