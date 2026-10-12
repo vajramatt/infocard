@@ -10,7 +10,7 @@ open_to: [strategic partnerships, advisory, speaking]
 
 # Matthew Williamson
 **Founder & CEO, [Clevyr](https://clevyr.com)** · Enterprise Technology Strategy · AI, Software Engineering & Intelligent Systems
-Oklahoma City, OK · [clevyr.com](https://clevyr.com) · [Clevyr on infocard](https://infocard.ai/@clevyr) · [Personal website](https://vajramatt.github.io/)
+Oklahoma City, OK · [clevyr.com](https://clevyr.com) · [Clevyr on infocard](https://infocard.ai/@clevyr) · [crossinginto.ai](https://crossinginto.ai)
 
 ---
 
@@ -188,6 +188,11 @@ My career started in 1995 as the first employee of an Oklahoma ISP — punching 
 ## Personal Experiments & Technical Exploration
 
 I believe technology leaders should remain curious about the technologies they're asking others to adopt. Outside my work at Clevyr, I build small applications and experimental platforms to explore AI, agentic architectures, infrastructure, and emerging development tools. These are personal learning projects, not separate business ventures.
+
+### [Crossing Into](https://crossinginto.ai)
+*My personal site and independent publication on AI*
+
+A place to make sense of our transition into an AI-shaped world, and decide how we want to cross it. Home to **The Brief** — a five-minute weekday briefing on consequential AI news, research, policy, and arguments — and a set of free, open tools that make websites and AI systems more legible, accountable, and useful: the llms.txt generator, Legible, Aligned, izakaya, ChainProof, and Eigenstate.
 
 ### [infocard.ai](https://infocard.ai)
 *Exploring: AI tag extraction and search over plain Markdown*
