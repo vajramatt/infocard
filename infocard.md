@@ -1,96 +1,93 @@
 ---
 name: Matthew Williamson
-title: CEO & Founder, Clevyr
+title: Founder & CEO, Clevyr | Enterprise Technology Strategy | AI, Software Engineering & Intelligent Systems
 location: Oklahoma City, OK
-summary: Founder and CEO of Clevyr, an Oklahoma City custom software firm building software driven by human-led AI for mid-market and enterprise businesses that have outgrown off-the-shelf. 25+ years shipping production systems. Clevyr's senior, 100% onshore teams deliver custom software, AI consulting and development, data engineering, systems integration, and HubSpot & RevOps — as a HubSpot Diamond-tier partner trusted by Fortune 100 clients. On the side, I build small AI-native tools on Cloudflare's edge stack to learn hands-on what works.
-tags: [ai, custom-software, leadership, strategy, hubspot, revops, systems-integration, data-engineering, business-process-automation, fintech, healthcare, cloudflare-workers, typescript, hono, d1, workers-ai, durable-objects, devops, project-management, web-development, internet-infrastructure, marine-corps-veteran]
-open_to: [custom software projects, ai consulting, hubspot partnerships, speaking]
+website: https://clevyr.com
+summary: Founder and CEO of Clevyr, a technology engineering and consulting company in Oklahoma City. 30+ years at the intersection of software, infrastructure, business, and emerging technology — focused on how AI agents, enterprise data, and intelligent automation will reshape organizations.
+tags: [enterprise-architecture, technology-strategy, ai-strategy, agentic-systems, ai-orchestration, custom-software, systems-integration, data-engineering, business-intelligence, intelligent-automation, cloud-architecture, devops, cybersecurity, technology-governance, hubspot, crm, revops, executive-leadership, business-development, organizational-strategy, marine-corps-veteran]
+open_to: [strategic partnerships, advisory, speaking]
 ---
 
 # Matthew Williamson
-**CEO & Founder, [Clevyr](https://clevyr.com)** · Oklahoma City, OK
-[Clevyr](https://clevyr.com) · [Personal website](https://vajramatt.github.io/)
+**Founder & CEO, [Clevyr](https://clevyr.com)** · Enterprise Technology Strategy · AI, Software Engineering & Intelligent Systems
+Oklahoma City, OK · [clevyr.com](https://clevyr.com) · [Clevyr on infocard](https://infocard.ai/@clevyr) · [Personal website](https://vajramatt.github.io/)
+
+---
+
+## About
+
+I'm the founder and CEO of [Clevyr](https://clevyr.com), a technology engineering and consulting company headquartered in Oklahoma City. I've spent more than 30 years working at the intersection of software, infrastructure, business, and emerging technologies.
+
+At Clevyr, we help organizations solve difficult problems through custom software engineering, systems integration, artificial intelligence, data architecture, cybersecurity, and intelligent automation. Our work spans enterprise platforms, business-critical integrations, and the increasingly complex intersection of humans and AI agents.
+
+I'm particularly interested in what happens when AI evolves beyond individual tools into coordinated systems capable of transforming how organizations operate.
+
+I still build things. Not because I need another startup, but because experimenting is how I learn, challenge assumptions, and stay connected to the technology.
+
+My focus remains Clevyr, our clients, and building the next generation of intelligent business systems.
 
 ---
 
 ## Clevyr
 
-*Custom software driven by human-led AI for businesses that have outgrown off-the-shelf.*
+**Humanizing the technology experience.**
 
-I founded Clevyr in 2009 and have led it since. We're senior-led, 100% onshore, and accountable for what we ship — no offshore handoffs, and we stay on to support it after launch. AI speeds the work; people are accountable for it.
+Clevyr helps organizations understand, design, integrate, and operate the technology their businesses depend on. We've done it since 2009 — through early web platforms, enterprise integration, cloud, and now AI — with thoughtful engineering, sound architecture, and technology that serves people.
 
-| Service | Focus |
+Organizations bring us in when the problem is bigger than a single tool: systems that don't talk to each other, operations that have outgrown off-the-shelf software, data no one trusts, or an AI strategy that needs to become something real and accountable.
+
+| Capability | What it means |
 |------|-------|
-| Custom Software | Customer-facing products, internal tools, mobile apps |
-| AI Consulting & Development | Applied AI on specific workflows, applied machine learning |
-| Data & Integration | Data engineering & analytics, systems integration & APIs, business process automation |
-| HubSpot & RevOps | Diamond-tier partner — implementation, migration, integration, and management |
-| Continuous Care | Ongoing support and maintenance after launch |
+| AI Strategy & Implementation | AI roadmaps, applied AI in real workflows, agentic systems and orchestration |
+| Custom Software Engineering | Customer-facing platforms, internal systems, mobile applications |
+| Enterprise Systems Integration | APIs and integrations between business-critical systems |
+| Data Engineering & Intelligence | Data architecture, analytics, business intelligence, intelligent automation |
+| Cloud Infrastructure | Cloud architecture, DevOps, and ongoing operations |
+| Cybersecurity | Security practices and technology governance |
+| CRM & RevOps | HubSpot Diamond Solutions Partner — CRM architecture and revenue operations, with capabilities well beyond HubSpot |
 
-**Industries:** Banking & financial services · Healthcare · Energy · Education · Pro sports · Non-profits
+**Industries:** Banking & financial services · Healthcare · Energy · Logistics · Education · Pro sports · Non-profits
 
-**Starting point:** *Compass* — a fixed-scope engagement that produces a working prototype and a plan.
+### Working with Clevyr
+
+I'm not seeking employment, freelance programming work, or personal consulting engagements. If your organization needs help with software, integration, data, or AI, **[talk to Clevyr](https://clevyr.com)** — that's where the work happens, with a senior team behind it.
+
+I'm glad to connect with enterprise technology leaders and potential strategic partners, and I'm open to speaking and advisory opportunities.
+
+---
+
+## Expertise
+
+- **Enterprise Technology Strategy & Architecture**
+- **AI Strategy, Agentic Systems & Orchestration**
+- **Custom Software Engineering & Systems Integration**
+- **Data Engineering, Business Intelligence & Automation**
+- **Cloud Architecture, Infrastructure & DevOps**
+- **Cybersecurity & Technology Governance**
+- **HubSpot, CRM Architecture & Revenue Operations**
+- **Executive Leadership, Business Development & Organizational Strategy**
+
+What I do best is understand complex organizations — find the architectural and operational problems underneath the symptoms, then build the teams and systems that solve them.
 
 ---
 
 ## Experience
 
-### Chief Executive Officer & Founder
-**[Clevyr, Inc.](https://clevyr.com)** · Full-time
+### Founder & Chief Executive Officer
+**[Clevyr, Inc.](https://clevyr.com)** · [Company profile](https://infocard.ai/@clevyr)
 *Mar 2009 – Present · 17 yrs*
-Oklahoma City, Oklahoma Area · On-site
+Oklahoma City, OK
 
-- Built Clevyr from a founding team into a custom software firm and HubSpot Diamond-tier agency serving mid-market and enterprise clients, including Fortune 100 companies.
-- Led delivery of large-scale, complex systems — logistics centers, laboratory management systems, and critical business infrastructure.
-- Steered the firm toward human-led AI: applied AI and ML embedded in client workflows, with senior engineers accountable for every result.
-- Shipped work like a community bank's mobile banking app (10,000+ customers migrated, integrated with the bank's core) and a digital patient-intake workflow that replaced hand-keyed paper forms for a behavioral health provider.
+- Founded Clevyr and have led it for 17 years as an engineering organization — not a small software shop or a single-platform agency.
+- Set company strategy, enterprise architecture direction, and the delivery model behind every engagement.
+- Led large-scale, complex initiatives including logistics centers, laboratory management systems, and critical business infrastructure for Fortune 100 companies.
+- Built Clevyr's capabilities across custom software, systems integration, data engineering, cloud infrastructure, cybersecurity, and CRM/RevOps, and earned HubSpot Diamond Solutions Partner status.
+- Leading Clevyr's work in AI strategy and agentic systems — helping clients move from AI experiments to accountable, integrated systems.
 
 We are here to help each other, and that is what drives me.
 
----
-
-## AI Lab — Learning by Building
-
-I don't believe you can advise on AI without building with it. These are personal side projects — experiments where I explore new models, agent patterns, and edge infrastructure hands-on. What I learn here feeds directly into how Clevyr approaches AI for clients.
-
-| Skill area | What I'm working with |
-|------|-------|
-| Edge & Cloud | Cloudflare Workers · D1 · Workers AI · KV · Durable Objects |
-| Languages & Frameworks | TypeScript · Hono · Vue 3 · React · Astro |
-| AI | Anthropic Claude · OpenAI · agent workflows · provenance & audit trails |
-
-### [infocard.ai](https://infocard.ai)
-*Exploring: AI tag extraction and search over plain Markdown*
-
-Markdown resumes from GitHub repos — no accounts, no keyword stuffing. Recruiter search with AI tag extraction, skill matrix, and company profiles.
-
-`typescript` `hono` `cloudflare-workers` `d1` `workers-ai`
-
-### [chainproof.ai](https://chainproof.ai)
-*Exploring: trust and accountability for AI agents*
-
-A signed, hash-chained ledger for agentic workflows. Every AI action is cryptographically logged with a verifiable audit trail — my experiment in making "people are accountable for AI" provable.
-
-`typescript` `hono` `cloudflare-workers` `d1` `durable-objects`
-
-### [promptcard.ai](https://promptcard.ai)
-*Exploring: how individuals and teams manage prompts day to day*
-
-Store, organize, search, and share AI prompts. Folders, tags, full-text search, keyboard shortcuts, and team folder sharing.
-
-`typescript` `cloudflare-workers`
-
-### [briefing.wtf](https://briefing.wtf)
-*Exploring: fast, algorithm-free information on the edge*
-
-A global news start page — 43 feeds, 8 categories, and a live market ticker, with no algorithmic noise.
-
-`typescript` `cloudflare-workers`
-
----
-
 <details>
-<summary>Earlier experience (1995–2009)</summary>
+<summary>Earlier experience (1992–2009)</summary>
 
 ### Technology Strategist
 **iThryv** · Full-time
@@ -171,3 +168,51 @@ Oklahoma City Metropolitan Area · On-site
 As the first employee of ioNet, I helped to build the groundwork for what would become a regional player in the early internet. From punching down phone lines and provisioning thousands of modems to running Apache, SendMail, WuFTP, Gopher, WAIS, and more, this was a Master's Class in the internet before most knew what it was.
 
 </details>
+
+---
+
+## Technical Background
+
+My career started in 1995 as the first employee of an Oklahoma ISP — punching down phone lines, provisioning modems, and running UNIX servers before most people knew what the internet was. I've worked across modern and legacy stacks ever since.
+
+| Area | Experience |
+|------|-------|
+| Infrastructure | UNIX/Solaris, Apache, networking & ISP operations, cloud & edge platforms (Cloudflare Workers, D1, KV, Durable Objects) |
+| Languages | TypeScript · JavaScript · Java |
+| Frameworks & Platforms | Vue · React · Astro · Hono · BEA WebLogic · Netscape commerce suite |
+| AI | Anthropic Claude · OpenAI · Workers AI · agent workflows and orchestration |
+| Business Systems | HubSpot · CRM & RevOps architecture · e-commerce · content management |
+
+---
+
+## Personal Experiments & Technical Exploration
+
+I believe technology leaders should remain curious about the technologies they're asking others to adopt. Outside my work at Clevyr, I build small applications and experimental platforms to explore AI, agentic architectures, infrastructure, and emerging development tools. These are personal learning projects, not separate business ventures.
+
+### [infocard.ai](https://infocard.ai)
+*Exploring: AI tag extraction and search over plain Markdown*
+
+Markdown resumes from GitHub repos — no accounts, no keyword stuffing. Recruiter search with AI tag extraction, skill matrix, and company profiles.
+
+`typescript` `hono` `cloudflare-workers` `d1` `workers-ai`
+
+### [chainproof.ai](https://chainproof.ai)
+*Exploring: trust and accountability for AI agents*
+
+A signed, hash-chained ledger for agentic workflows. Every AI action is cryptographically logged with a verifiable audit trail.
+
+`typescript` `hono` `cloudflare-workers` `d1` `durable-objects`
+
+### [promptcard.ai](https://promptcard.ai)
+*Exploring: how individuals and teams manage prompts day to day*
+
+Store, organize, search, and share AI prompts. Folders, tags, full-text search, keyboard shortcuts, and team folder sharing.
+
+`typescript` `cloudflare-workers`
+
+### [briefing.wtf](https://briefing.wtf)
+*Exploring: fast, algorithm-free information on the edge*
+
+A global news start page — 43 feeds, 8 categories, and a live market ticker, with no algorithmic noise.
+
+`typescript` `cloudflare-workers`
