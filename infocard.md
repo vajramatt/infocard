@@ -1,79 +1,93 @@
 ---
 name: Matthew Williamson
-title: Chief Executive Officer & Founder
+title: CEO & Founder, Clevyr
 location: Oklahoma City, OK
-summary: Founder and enterprise software leader with 25+ years shipping production systems. Built Clevyr into a Software Development company and a HubSpot Diamond-tier agency and delivery partner for Fortune 100 clients. Currently building AI-native platforms — infocard.ai, chainproof.ai — on Cloudflare's edge stack. Available for AI advisory, strategic consulting, and speaking.
-tags: [cloudflare-workers, typescript, ai, leadership, hono, d1, workers-ai, durable-objects, strategy, fintech, startup, devops, project-management, seo, e-commerce, solaris, web-development, internet-infrastructure, marine-corps-veteran, sales, content-management]
-open_to: [ai consulting, ai advisory, contract, speaking]
+summary: Founder and CEO of Clevyr, an Oklahoma City custom software firm building software driven by human-led AI for mid-market and enterprise businesses that have outgrown off-the-shelf. 25+ years shipping production systems. Clevyr's senior, 100% onshore teams deliver custom software, AI consulting and development, data engineering, systems integration, and HubSpot & RevOps — as a HubSpot Diamond-tier partner trusted by Fortune 100 clients. On the side, I build small AI-native tools on Cloudflare's edge stack to learn hands-on what works.
+tags: [ai, custom-software, leadership, strategy, hubspot, revops, systems-integration, data-engineering, business-process-automation, fintech, healthcare, cloudflare-workers, typescript, hono, d1, workers-ai, durable-objects, devops, project-management, web-development, internet-infrastructure, marine-corps-veteran]
+open_to: [custom software projects, ai consulting, hubspot partnerships, speaking]
 ---
 
 # Matthew Williamson
-**Chief Executive Officer & Founder** · Oklahoma City, OK
-[Personal website](https://vajramatt.github.io/)
+**CEO & Founder, [Clevyr](https://clevyr.com)** · Oklahoma City, OK
+[Clevyr](https://clevyr.com) · [Personal website](https://vajramatt.github.io/)
 
 ---
 
-## Skills
+## Clevyr
 
-| Area | Stack |
+*Custom software driven by human-led AI for businesses that have outgrown off-the-shelf.*
+
+I founded Clevyr in 2009 and have led it since. We're senior-led, 100% onshore, and accountable for what we ship — no offshore handoffs, and we stay on to support it after launch. AI speeds the work; people are accountable for it.
+
+| Service | Focus |
 |------|-------|
-| Edge & Cloud | Cloudflare Workers · D1 · Workers AI · KV · Durable Objects |
-| Languages | TypeScript · JavaScript · Java |
-| Frameworks | Hono · Vue 3 · React · Astro |
-| APIs & Integrations | Anthropic Claude · OpenAI · HubSpot · Harvest v2 |
-| Delivery & Strategy | AI Advisory · Enterprise Delivery · HubSpot Diamond Partner |
+| Custom Software | Customer-facing products, internal tools, mobile apps |
+| AI Consulting & Development | Applied AI on specific workflows, applied machine learning |
+| Data & Integration | Data engineering & analytics, systems integration & APIs, business process automation |
+| HubSpot & RevOps | Diamond-tier partner — implementation, migration, integration, and management |
+| Continuous Care | Ongoing support and maintenance after launch |
 
----
+**Industries:** Banking & financial services · Healthcare · Energy · Education · Pro sports · Non-profits
 
-## Projects
-
-### [infocard.ai](https://infocard.ai)
-*Developer profile platform · 2026*
-
-Markdown resumes from GitHub repos — no accounts, no keyword stuffing. Recruiter search with AI tag extraction, skill matrix, and company profiles. Built on Cloudflare Workers, D1, Workers AI, and Hono.
-
-`typescript` `hono` `cloudflare-workers` `d1` `workers-ai`
-
----
-
-### [chainproof.ai](https://chainproof.ai)
-*Agent provenance platform · 2026*
-
-Signed, hash-chained ledger for agentic workflows. Every AI action is cryptographically logged with a verifiable audit trail — provenance you can prove.
-
-`typescript` `hono` `cloudflare-workers` `d1` `durable-objects`
-
----
-
-### [promptcard.ai](https://promptcard.ai)
-*Personal and team prompt library · 2026*
-
-Store, organize, search, and share AI prompts with zero friction. Folders, tags, full-text search, keyboard shortcuts, and team folder sharing — a tool that trusts you.
-
-`typescript` `cloudflare-workers`
-
----
-
-### [briefing.wtf](https://briefing.wtf)
-*Global news start page · 2026*
-
-43 feeds, 8 categories, and a live market ticker — everything you need to start the day without algorithmic noise.
-
-`typescript` `cloudflare-workers`
+**Starting point:** *Compass* — a fixed-scope engagement that produces a working prototype and a plan.
 
 ---
 
 ## Experience
 
-### Chief Executive Officer
+### Chief Executive Officer & Founder
 **[Clevyr, Inc.](https://clevyr.com)** · Full-time
-
 *Mar 2009 – Present · 17 yrs*
 Oklahoma City, Oklahoma Area · On-site
 
-I enjoy playing a pivotal role in assisting clients with the development, design, and maintenance of state-of-the-art technologies. With extensive experience overseeing large-scale and complex projects, including logistics centers, laboratory management systems, and critical business infrastructure systems for Fortune 100 companies, I have led teams responsible for developing numerous cutting-edge technologies.
+- Built Clevyr from a founding team into a custom software firm and HubSpot Diamond-tier agency serving mid-market and enterprise clients, including Fortune 100 companies.
+- Led delivery of large-scale, complex systems — logistics centers, laboratory management systems, and critical business infrastructure.
+- Steered the firm toward human-led AI: applied AI and ML embedded in client workflows, with senior engineers accountable for every result.
+- Shipped work like a community bank's mobile banking app (10,000+ customers migrated, integrated with the bank's core) and a digital patient-intake workflow that replaced hand-keyed paper forms for a behavioral health provider.
 
 We are here to help each other, and that is what drives me.
+
+---
+
+## AI Lab — Learning by Building
+
+I don't believe you can advise on AI without building with it. These are personal side projects — experiments where I explore new models, agent patterns, and edge infrastructure hands-on. What I learn here feeds directly into how Clevyr approaches AI for clients.
+
+| Skill area | What I'm working with |
+|------|-------|
+| Edge & Cloud | Cloudflare Workers · D1 · Workers AI · KV · Durable Objects |
+| Languages & Frameworks | TypeScript · Hono · Vue 3 · React · Astro |
+| AI | Anthropic Claude · OpenAI · agent workflows · provenance & audit trails |
+
+### [infocard.ai](https://infocard.ai)
+*Exploring: AI tag extraction and search over plain Markdown*
+
+Markdown resumes from GitHub repos — no accounts, no keyword stuffing. Recruiter search with AI tag extraction, skill matrix, and company profiles.
+
+`typescript` `hono` `cloudflare-workers` `d1` `workers-ai`
+
+### [chainproof.ai](https://chainproof.ai)
+*Exploring: trust and accountability for AI agents*
+
+A signed, hash-chained ledger for agentic workflows. Every AI action is cryptographically logged with a verifiable audit trail — my experiment in making "people are accountable for AI" provable.
+
+`typescript` `hono` `cloudflare-workers` `d1` `durable-objects`
+
+### [promptcard.ai](https://promptcard.ai)
+*Exploring: how individuals and teams manage prompts day to day*
+
+Store, organize, search, and share AI prompts. Folders, tags, full-text search, keyboard shortcuts, and team folder sharing.
+
+`typescript` `cloudflare-workers`
+
+### [briefing.wtf](https://briefing.wtf)
+*Exploring: fast, algorithm-free information on the edge*
+
+A global news start page — 43 feeds, 8 categories, and a live market ticker, with no algorithmic noise.
+
+`typescript` `cloudflare-workers`
+
+---
 
 <details>
 <summary>Earlier experience (1995–2009)</summary>
